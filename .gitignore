@@ -1,0 +1,13 @@
+.idea
+.vscode
+.DS_Store
+
+bin
+obj
+appsettings.json
+*.db
+
+# specific for me -> edit later
+Dockerfile
+dockerfiles
+**docker**
